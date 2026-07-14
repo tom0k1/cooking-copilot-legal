@@ -1,0 +1,41 @@
+terms.html
+  s_eb6c1671231868::t_c6a3de1b7dbcb6 20,22,25,34-36,38-42,44-47,50-56,59,61-64,67-70,77,81-84,87-93,95,97,100,103-107,110
+  s_eb6c1671231868::t_a7a94d4b133ed7 37
+  s_eb6c1671231868::t_b92a6718da8837 85
+  s_eb6c1671231868::t_4eb3cf0e8563fb 96,102
+  s_eb6c1671231868::t_5437eac00fba6e 49
+  s_eb6c1671231868::t_7c2bebd0fc315e 108
+tokushoho.html
+  s_eb6c1671231868::t_476da981ca10be 37
+  s_eb6c1671231868::t_dbfbf2276efd9e 21
+  s_eb6c1671231868::t_4eb3cf0e8563fb 46
+  s_eb6c1671231868::t_8ad1c50f87fc99 1-20,22-36,38-45,47-49,51-81
+  s_eb6c1671231868::t_ba0d1cb51f9dd3 50
+privacy.html
+  s_eb6c1671231868::t_c08f815bb4af72 22,24
+  s_eb6c1671231868::t_68617808d124d3 71
+  s_eb6c1671231868::t_dbfbf2276efd9e 88
+  s_eb6c1671231868::t_745e196cb27528 108
+  s_eb6c1671231868::t_2981577b118afc 113
+  s_eb6c1671231868::t_4eb3cf0e8563fb 103
+  s_eb6c1671231868::t_4fda9fdb90cae3 49-55,57,59,63,68-70,72-84,86,90-102,104-107,109-110,112,115,118
+  s_eb6c1671231868::t_3f6c515be3eb76 29-32
+  s_eb6c1671231868::t_5517ad23cd972b 87
+  s_eb6c1671231868::t_dae2d3d5869dc5 60-62,64-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "9e99efed97701e325bdcfcdbf083bf1a3957d183",
+  "prompts": {},
+  "sessions": {
+    "s_eb6c1671231868": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fac8bf9e-6ae9-47d7-8d1a-10f6f4dd183c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tomoki Yokoyama <yokoyamatomoki94@gmail.com>"
+    }
+  }
+}
