@@ -1,0 +1,21 @@
+privacy.html
+  s_eb6c1671231868::t_f136bf2a2ab218 8-17,22,24,26,38,48,63,65,68,71,73,75,78
+terms.html
+  s_eb6c1671231868::t_f52dfb08207fb2 8-15,20,22,24,27,34,37,46,53,63,66,72-73,75,77,79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "07498ceda9f984a64c8985110fcccb516b817419",
+  "prompts": {},
+  "sessions": {
+    "s_eb6c1671231868": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fac8bf9e-6ae9-47d7-8d1a-10f6f4dd183c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tomoki Yokoyama <yokoyamatomoki94@gmail.com>"
+    }
+  }
+}
