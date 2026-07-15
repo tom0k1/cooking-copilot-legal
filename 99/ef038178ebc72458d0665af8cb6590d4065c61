@@ -1,0 +1,19 @@
+terms.html
+  s_eb6c1671231868::t_99c42eafb740f9 96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "99ef038178ebc72458d0665af8cb6590d4065c61",
+  "prompts": {},
+  "sessions": {
+    "s_eb6c1671231868": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fac8bf9e-6ae9-47d7-8d1a-10f6f4dd183c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tomoki Yokoyama <yokoyamatomoki94@gmail.com>"
+    }
+  }
+}
